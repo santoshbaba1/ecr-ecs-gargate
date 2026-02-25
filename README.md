@@ -198,7 +198,7 @@ CMD ["python", "app.py"]
 **Set environment variables:**
 
 ```bash
-REGION=us-east-1
+REGION=ap-south-1
 REPO_NAME=todo-api
 CLUSTER_NAME=production-cluster
 ```
